@@ -1,1 +1,1 @@
-# searchBarCryptoWallet
+# Search Bar Crypto Wallet
